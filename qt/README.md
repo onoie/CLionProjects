@@ -5,5 +5,5 @@ author:onoie
 Ubuntu16
 Clion2017.1
 Qt5.9
-cmake-build-debug
 ```
+cmake-build-debug is not found -> project reload
