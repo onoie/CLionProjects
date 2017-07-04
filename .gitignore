@@ -1,5 +1,7 @@
+reference
 cmake-build-debug
 .idea
+*.iml
 
 # Prerequisites
 *.d
